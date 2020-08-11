@@ -1,0 +1,20 @@
+[package]
+name = "lian"
+version = "0.1.0"
+authors = ["Killswitch <szentesi.botond@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+time = "0.2.16"
+piston = "0.52.0"
+piston2d-graphics = "0.36.0"
+piston2d-gfx_graphics = "0.69.0"
+pistoncore-glutin_window = "0.66.0"
+piston_window = "0.111.0"
+piston2d-opengl_graphics = "0.73.0"
+rand = "0.7"
+noise = "0.6.0"
+image = "0.23.8"
+gfx_device_gl = "0.16.2"
